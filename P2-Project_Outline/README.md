@@ -28,4 +28,4 @@ I was inspired to create an app that would list or flag restaurant menu items th
 -CSS
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I am not sure of a certain language, however, I will need to figure out how to interface with the online menus for each restaurant. As well as make whatever language used interpretable by my program language. I am sure there will be more elements that I am not aware of at this time.
