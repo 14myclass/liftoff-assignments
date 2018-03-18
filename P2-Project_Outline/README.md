@@ -20,7 +20,12 @@ I was inspired to create an app that would list or flag restaurant menu items th
 
 
 ### Technologies
-Include Technologies here
+-C#
+-MySQL
+-SQLAlchemy
+-Bootstrap
+-HTML
+-CSS
 
 ### What I'll Have to Learn
 Include what you will need to learn here
