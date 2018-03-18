@@ -7,6 +7,9 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
+A few months ago, my god daughter visited a new restaurant. She asked if a particular dish contained nuts since she is highly allergic to nuts. She was given incorrect information and spent the next few days in the hospital. This incident made me wonder, is there an app that my god-daughter could have used to choose a dish from this restaurant that did not contain nuts?
+
+I was inspired to create an app that would list or flag restaurant menu items that do not contain allergens when a user selects a specific food allergen such as nuts, milk, soy, or shellfish and enters a specific restaurant name.
 Include overview here
 ### Features
 Include Features here
