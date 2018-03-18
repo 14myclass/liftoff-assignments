@@ -12,20 +12,20 @@ A few months ago, my god daughter visited a new restaurant. She asked if a parti
 I was inspired to create an app that would list or flag restaurant menu items that do not contain allergens when a user selects a specific food allergen such as nuts, milk, soy, or shellfish and enters a specific restaurant name.
 
 ### Features
-*SELECT: Users will be able to choose from a list of most common allergens like nuts, milk, soy, or shellfish.
+* SELECT: Users will be able to choose from a list of most common allergens like nuts, milk, soy, or shellfish.
 
-*SEARCH: Users will enter the name of a specific restaurant and choose to search its online menu for selected food allergen.
+* SEARCH: Users will enter the name of a specific restaurant and choose to search its online menu for selected food allergen.
 
-*VIEW: Users will have access to view menu items that do not contain the chosen food allergen.
+* VIEW: Users will have access to view menu items that do not contain the chosen food allergen.
 
 
 ### Technologies
-*C#
-*MySQL
-*SQLAlchemy
-*Bootstrap
-*HTML
-*CSS
+* C#
+* MySQL
+* SQLAlchemy
+* Bootstrap
+* HTML
+* CSS
 
 ### What I'll Have to Learn
 I am not sure of a certain language, however, I will need to figure out how to interface with the online menus for each restaurant. As well as make whatever language used interpretable by my program language. I am sure there will be more elements that I am not aware of at this time.
