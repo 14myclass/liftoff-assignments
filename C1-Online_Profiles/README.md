@@ -16,5 +16,4 @@ My LinkedIn [resume](https://www.linkedin.com/in/rakiyah-faatuono-25a416161/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
-My technical resume is [liftoff technical resume](C:\This PC\Documents\Documents\liftoff resume.pdf)
 
